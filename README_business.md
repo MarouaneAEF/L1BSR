@@ -61,35 +61,31 @@ This repository hosts the reference PyTorch implementation, a public dataset and
 
 ---
 
-### Message to candidates & future teammates
+### What this project shows about my profile
 
-We use L1BSR as a **core tech building block** to showcase our expertise in:
+This project showcases my expertise in:
 
-- **Deep learning for Earth Observation**  
-  - Advanced architectures for super‑resolution and registration (RCAN‑style and beyond).  
-  - Training and optimizing networks on large volumes of real satellite data.
+- **Deep learning for Earth Observation**
+  - Super‑resolution and cross‑spectral registration for Sentinel‑2.
+  - Training and optimizing models on large volumes of real satellite data.
 
-- **Scientific & industrial computer vision**  
-  - Designing robust, explainable and production‑grade pipelines.  
-  - Bridging academic research (papers, conferences) and real‑world use cases.
+- **Scientific & industrial computer vision**
+  - Bridging academic research (EarthVision / IPOL) and real‑world use cases (agriculture, environment, risk).
+  - Designing robust, explainable and maintainable vision pipelines.
 
-- **Data & MLOps**  
-  - Handling large Sentinel‑2 datasets, pre‑processing, training and evaluation pipelines.  
-  - Industrializing models (serving, monitoring, scaling).
+- **Data & MLOps mindset**
+  - Handling large‑scale geospatial datasets and preprocessing pipelines.
+  - Preparing models for industrialization (serving, monitoring, scaling).
 
-**What this means for you as a candidate:**
+---
 
-- **Technically challenging topics**: self‑supervision, geospatial vision, multi‑spectral processing.  
-- **Tangible impact**: every improvement in the L1BSR pipeline translates into better decisions on the ground (agriculture, environment, risk, etc.).  
-- **An open environment**: public code, demos, and collaboration with the research community.
+### My role on this project
 
-If you are interested in:
+On this project, I:
 
-- **deep learning applied to satellite imagery**,  
-- **scaling ML pipelines** on massive datasets,  
-- and building **high‑value data products**,  
-
-then this project is a strong entry point for a conversation.
+- Contributed to the **PyTorch implementation** of the L1BSR architecture, in particular the REC (super‑resolution) and CSR (cross‑spectral registration) modules.  
+- Ran experiments on real Sentinel‑2 data to validate both the super‑resolution performance and the quality of cross‑spectral registration.  
+- Helped structure the repository and documentation so that the method can be used and reproduced by practitioners (data scientists, ML engineers, EO specialists).  
 
 ---
 
